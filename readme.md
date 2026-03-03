@@ -2,3 +2,7 @@
 
 - creer un depot git
 - faire le link avce github
+
+
+
+## 2e partie
